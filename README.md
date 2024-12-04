@@ -27,7 +27,7 @@
 <p align="center">
   <b>Stuff I used or use</b><br/>
   <img src="https://github.com/user-attachments/assets/70615062-57dd-426b-9451-4043b91ea935" height="33"/>
-  <img src="https://skillicons.dev/icons?i=java,haskell,python,git,windows,linux" height=33"/>
+  <img src="https://skillicons.dev/icons?i=c,java,haskell,python,git,windows,linux" height=33"/>
 </p>
   <!--/details-->
 
